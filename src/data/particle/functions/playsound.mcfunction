@@ -1,0 +1,1 @@
+execute at @a[scores={trails=1..}] run playsound minecraft:block.note_block.bell master @a[scores={trails=1..}]
