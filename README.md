@@ -1,6 +1,6 @@
 # particlemenu
 A chat menu datapack to manage particle trails
-# Features
+# Usage
 ```
 /trigger trails to open menu
 /team join booster <user>
