@@ -1,3 +1,0 @@
-execute if score @a[scores={trails=1},limit=1] firsttime matches 1 run tellraw @a[scores={trails=1}] {"text":""}
-execute unless score @a[scores={trails=1},limit=1] firsttime matches 1 run tellraw @a[scores={trails=1}] ["",{"text":"\u2139","color":"dark_purple","hoverEvent":{"action":"show_text","contents":["",{"text":"Data pack made by","color":"gold"},{"text":" nnmarcoo","color":"yellow"}]}},{"text":" Thanks for boosting!","color":"light_purple","hoverEvent":{"action":"show_text","contents":["",{"text":"Data pack made by","color":"gold"},{"text":" nnmarcoo","color":"yellow"}]}}]
-scoreboard players set @a[scores={trails=1}] firsttime 1

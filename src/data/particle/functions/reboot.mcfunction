@@ -1,2 +1,0 @@
-function particle:uninstall
-function particle:load

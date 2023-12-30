@@ -1,2 +1,0 @@
-gamerule sendCommandFeedback false
-schedule function particle:restore_command_feedback 3s
